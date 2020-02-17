@@ -1,0 +1,15 @@
+body {
+  max-width: 1024px;
+  margin: 10px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size:16 px;
+  background-color: lightcyan;
+}
+h1 {
+  text-decoration: underline solid slategray;
+}
+.image {
+  taxt-align:left;
+  border-radius: 150px;
+  border: 3px solid cornflowerblue;
+}
